@@ -1,60 +1,64 @@
-Cara Menyembunyikan Status WA ke Kontak Tertentu
-====================
+Cara Mendapatkan Penghasilan Uang dari TikTok
+============================
 
-WhatsApp adalah aplikasi chatting instan paling populer dengan mencapai 5 miliar pengguna. Sama seperti aplikasi chat lainnya, WhatsApp juga mempunyai fitur untuk berbagi status atau story. Fitur status pada WhatsApp bisa dibagikan ke seluruh kontak kalian. Namun kadang terdapat momen ketika kita ingin menyembunyikan status dari beberapa orang. Ternyata cara menyembunyikan status WA ke Kontak Tertentu sangatlah mudah. Hanya saja memerlukan beberapa langkah untuk mengaturnya.
+Saat ini, mulai dari anak-anak hingga orang dewasa di seluruh penjuru dunia mungkin sudah tak asing lagi dengan hadirnya aplikasi TikTok. Hal tersebut dikarenakan selain menghibur, ternyata aplikasi TikTok ini juga dapat memberikan penghasilan tambahan bagi penggunanya. Simak pembahasan di bawah untuk mengetahui bagaimana cara mendapatkan uang dari TikTok dengan mudah.
 
-Cara Menyembunyikan Status WA
+Mengenal Apa itu TikTok?
 ---------------------
 
-Pembaruan status WA hanya dapat dilihat oleh pengguna yang saling save kontak WhatsApp. Misalnya, seorang teman menyimpan kontak WhatsApp kalian, sedangkan kalian tidak mensave kontaknya atau sebaliknya, teman kalian tersebut tidak dapat melihat status WA kalian, begitu juga sebaliknya.
+TikTok merupakan salah satu platform media sosial yang memungkinkan penggunanya merekam dan mengunggah video singkat dengan diiringi oleh musik tambahan. Aplikasi yang berasal dari China ini awalnya bernama Douyin dengan pencapaian sekitar 100 juta pengguna hanya dalam waktu 1 tahun. 
 
-Jika kalian menyimpan kontak seseorang dan seseorang tersebut juga menyimpan kontak kalian, secara default status yang kalian posting akan dapat dilihat oleh orang tersebut. Namun, terdapat solusi jika kalian ingin menyembunyikan status tersebut. Karena WhatsApp telah menyediakan fitur privasi yang bisa kalian gunakan. Kalian bisa menggunakan fitur privasi untuk menyembunyikan setiap status dari kontak tertentu dan juga dapat menyembunyikan status tertentu untuk ditampilkan pada kontak tertentu.
+Keberhasilan tersebut akhirnya membuat perusahaannya, ByteDance melakukan rebranding dengan nama TikTok dengan tujuan supaya dapat lebih mendunia dan mencapai pasar global. Meskipun kemudian TikTok menjadi viral di seluruh belahan dunia, namun awalnya kesan pertama saat TikTok masuk ke Indonesia dipandang sebelah mata bahkan sempat diblokir oleh Kominfo.
 
-**Baca juga**: `Cara Mengubah Nada Dering WA Dengan Suara Google <https://www.technolati.com/2022/08/cara-mengubah-nada-dering-wa-dengan.html>`_
+Seiring dengan perkembangan waktu, popularitas TikTok kembali naik dan mendapat panggung besar terutama ketika pandemi berlangsung. Di bulan Agustus 2020, TikTok berhasil tembus angka 22,2 juta pengguna. 
 
-Cara Menyembunyikan Status WA dari Kontak Tertentu
+Cara Mendapatkan Uang dari TikTok bagi Pemula
 ---------------------
 
-Berikut merupakan cara menyembunyikan status dari kontak terentu:
+Berbeda dengan platform sosial media lain seperti YouTube dengan AdSense-nya, TikTok tidak memberikan fee untuk setiap ads yang dipromosikan pada akun penggunanya. Namun, TikTok memiliki cara untuk membuat penggunanya mendapatkan penghasilan tambahan baik dalam kategori pemilik brand, akun personal, atau bahkan pengguna pemula. Beberapa hal yang bisa dilakukan dengan aplikasi TikTok
 
-1.	Buka aplikasi WhatsApp,
-2.	Klik atau geser pada menu STATUS,
-3.	Klik pada bagian titik tiga di pojok kanan atas,
-4.	Lalu klik Status Privacy atau Privasi Status, Jika Iphone klik Privasi,
-5.	Pilih “Kontak saya, kecuali..” atau "My contacts except..",
-6.	Pilih kontak yang ingin kalian sembunyikan dari status. Jika nama kontak terpilih, berarti kontak tersebut tidak bisa melihat status kalian,
-7.	Selanjutnya klik tanda centang, dan
-8.	Cobalah membuat story, beberapa kontak telah sukses diprivasi.
+Melihat Konten VideoShare Kode ReferralMembuat Konten Video MenarikSponsored Content PostTikTok MarketingInfluencer MarketingDonasi atau Payout CoinsJasa Pengelola Akun atau TikTok ManagerPromosi MusikPengarahan Tarif ke Platform laindan masih banyak lagi
 
-Cara Membagikan Status WA ke Kontak Tertentu
+Cara-cara di atas dapat dilakukan dengan mudah untuk mendapatkan uang dari TikTok. Berikut pembahasan cara mendapatkan uang dari TikTok bagi pemula yang mungkin akan sangat bermanfaat untuk Anda yang baru saja mengunduh aplikasi TikTok.
+
+#1. Melihat Konten Video
 ---------------------
 
-1.	Buka aplikasi `GB WhatsApp`_
-2.	Klik atau geser pada menu STATUS,
-3.	Klik pada bagian titik tiga di pojok kanan atas,
-4.	Lalu klik Status Privacy atau Privasi Status, Jika Iphone klik Privasi,
-5.	Pilih kontak yang ingin kalian bagikan untuk melihat status. Jika nama kontak terpilih, berarti kontak tersebut bisa melihat status kalian,
-6.	Selanjutnya klik tanda centang, dan
-7.	Cobalah membuat story, maka penonton story hanyalah kontak yang kalian pilih tadi.
+Cara pertama yang bisa Anda lakukan untuk mendapatkan penghasilan tambahan dari TikTok dapat dilakukan dengan sangat mudah dan tanpa ribet sama sekali. Anda hanya perlu melihat atau menonton video-video yang ada di dalam aplikasi TikTok maka Anda akan mendapatkan poin yang nantinya dapat ditukar menjadi uang. Jumlah poin yang Anda terima sesuai dengan durasi waktu menonton video tersebut. Semakin lama menonton video, maka poin yang Anda dapatkan pun akan semakin banyak.
 
-Perlu kalian ketahui, ketika status WhatsApp sudah diunggah maka perubahan pengaturan privasi tidak mempengaruhi pengaturan sebelumnya. Misalnya, sebelum mengunggah status pengaturan privasinya adalah "Kontak Saya atau My Contacts", kemudian kalian mengubah pengaturan privasi menjadi "Kontak saya, kecuali… atau My Contacts, Except…" setelah status terunggah, maka status kalian tetap diatur "Kontak Saya".
+#2. Share Kode Referral
+---------------------
 
-Setelah foto atau video sudah terlihat cukup bagus untuk diunggah ke status WA, kalian dapat mengatur lagi siapa saja yang mendapatkan akses melihat status WA kalian dengan menggunakan langkah–langkah yang sudah postedto.com bagikan di atas.
+Selain mendapatkan tambahan uang dengan menonton video dari Tiktok, Anda juga mendapatkan uang dengan cara mengajak teman-teman Anda untuk bergabung menggunakan TikTok sebanyak-banyaknya. Caranya yaitu dengan menyebarkan link dan kode referral yang akan digunakan untuk mendaftarkan diri dan membuat akun TikTok. 
 
-********
-Contents
-********
+Semakin banyak mengajak orang untuk bergabung dan membuat akun TikTok, maka akan semakin besar pula peluang Anda untuk mengumpulkan banyak poin.
 
-.. toctree::
-   :maxdepth: 2
+#3. Membuat Konten Video Menarik
+---------------------
 
-   style-guide
+Tidak jauh berbeda dengan cara pertama untuk mendapatkan uang dari aplikasi TikTok, pada cara berikut ini Anda sebagai pengguna dapat memaksimalkan penggunaan TikTok untuk berkreasi dengan  cara membuat video konten yang nantinya bisa menghasilkan banyak poin dan bisa ditukarkan dengan banyak uang pula. 
 
+Terlebih jika hasil kreasi konten video yang Anda buat dan Anda unggah pada aplikasi TikTok menjadi viral dan ditonton oleh banyak orang, hal tersebut akan memperbanyak jumlah poin yang akan Anda terima. Untuk satu video saja biasanya Anda akan mendapatkan sekitar 3 ribu poin. Bayangkan jika dalam waktu sehari Anda bisa membuat lebih dari satu video maka poin yang Anda kumpulkan akan semakin banyak dan berlimpah. 
 
-**********
-References
-**********
+Meskipun demikian, membuat konten video yang menarik memang tidak mudah dilakukan, selain itu video juga akan lebih baik jika memiliki manfaat bagi penonton atau pengguna TikTok lainnya.
 
-.. target-notes::
+#4. Membangun Branding
+---------------------
 
-.. _`GB WhatsApp`: https://www.sebuahutas.com/2022/06/gb-whatsapp-pro-v-download-apk-wa-gb.html
+Branding atau merek dalam hal ini adalah jati diri pengguna TikTok, Anda dapat membuat kesan yang menarik mengenai akun TikTok yang Anda gunakan. Misalnya, Anda harus memiliki konsistensi gambaran tentang jenis video yang akan Anda posting. 
+
+Selain itu, Anda harus memiliki target pasar yang jelas, siapa pengguna TikTok yang akan disasar dan berpotensi untuk menyukai konten yang Anda buat. Anda bisa memulai branding ini dengan menentukan sedari awal mengenai tema konten-konten video Anda apakah bertema romantisme, edukasi, hiburan, travelling, kuliner, atau sebagainya. 
+
+#5. Perbanyak Followers
+---------------------
+
+Konten yang bagus dan unik tentunya akan dapat menarik banyak pengikut atau follower. Cara terbaik untuk mendapatkan pengikut yang banyak adalah dengan melihat kondisi target pasar dan memahami apa yang sedang hangat atau apa yang sedang dibutuhkan target pasar tersebut. Anda bisa mengunggah konten-konten berkualitas tersebut beberapa kali dalam sehari.
+
+#6. Menjadi influencer TikTok
+---------------------
+
+Influencer TikTok memiliki job desc yang sama dengan influencer-influencer pada platform media sosial lainnya seperti mempromosikan produk, merk, atau layanan suatu perusahaan dengan harapan dapat meningkatkan angka penjualan. Semakin banyak followers yang Anda miliki, maka akan semakin tinggi honor Anda sebagai influencer TikTok.
+
+Itulah beberapa cara mendapatkan uang dari TikTok yang bisa Anda lakukan Semoga bermanfaat.
+
+**Sumber:** `Kalkulator Uang TikTok <https://www.autobild.co.id/p/kalkulator-tiktok.html>`_
